@@ -1,1 +1,1 @@
-# My solutions for Go Track from [exercism.org](https://exercism.org/profiles/milicagolocorbin/solutions?track_slug=elixir)
+# My solutions for Elixir Track from [exercism.org](https://exercism.org/profiles/milicagolocorbin/solutions?track_slug=elixir)
